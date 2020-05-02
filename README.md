@@ -3,7 +3,7 @@
 ## 二、具体文件说明如下：
 #### 实际存储的语料规模如下，语料领域为新闻、法律、教育等。为了便于大家参考，以下的语料各上传了100条，具体如下说明：
 #### 1、[monolingual.txt]():为已分词的藏文单语语料(100条)
-#### 2、[bilingual.txt]():为已分词后的藏汉平行语料(100条)
+#### 2、[bilingual.txt](https://github.com/Shajiu/Corpus/blob/master/corpus/bilingual.txt):藏汉平行语料实例。
 #### 3、[phrase.txt]():为藏汉平行短语表(100条)
 #### 4、[term.txt]():为藏汉平行术语表(100条)
 
