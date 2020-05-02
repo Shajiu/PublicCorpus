@@ -2,7 +2,7 @@
 #### 本文件夹下存储了大规模的单语语料和平行语料，另外还有新词术语表以及短语对齐表仅供大家做实验，如果使用在商业上，请主动跟[作者](https://github.com/Shajiu/Individual-Homepage/blob/master/README.md)取得联系，并在作者的同意之下使用相应的语料。
 ## 二、具体文件说明如下：
 #### 实际存储的语料规模如下，语料领域为新闻、法律、教育等。为了便于大家参考，以下的语料各上传了100条，具体如下说明：
-#### 1、[monolingual.txt]():为已分词的藏文单语语料(100条)
+#### 1、[monolingual.txt](https://github.com/Shajiu/Corpus/blob/master/corpus/monolingual.txt):为已分词的藏文单语语料(100条)
 #### 2、[bilingual.txt](https://github.com/Shajiu/Corpus/blob/master/corpus/bilingual.txt):藏汉平行语料实例。
 #### 3、[phrase.txt](https://github.com/Shajiu/Corpus/blob/master/corpus/phrase.txt):藏汉平行短语实例
 #### 4、[term.txt]():为藏汉平行术语表(100条)
