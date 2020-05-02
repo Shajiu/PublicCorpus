@@ -5,7 +5,7 @@
 #### 1、[monolingual.txt](https://github.com/Shajiu/Corpus/blob/master/corpus/monolingual.txt):藏文单语语料实例
 #### 2、[bilingual.txt](https://github.com/Shajiu/Corpus/blob/master/corpus/bilingual.txt):藏汉平行语料实例。
 #### 3、[phrase.txt](https://github.com/Shajiu/Corpus/blob/master/corpus/phrase.txt):藏汉平行短语实例
-#### 4、[term.txt]():藏汉平行术语实例
+#### 4、[term.txt](https://github.com/Shajiu/Corpus/blob/master/corpus/term.txt):藏汉平行术语实例
 
 |**种类(语言)**|**藏文单语**| **藏汉双语**|**藏汉短语表**|**新词术语表**|
 |--|--|--|--|--|
