@@ -7,7 +7,7 @@
 - [phrase.txt](https://github.com/Shajiu/Corpus/blob/master/corpus/phrase.txt):藏汉平行短语实例
 - [term.txt](https://github.com/Shajiu/Corpus/blob/master/corpus/term.txt):藏汉平行术语实例
 
-|**种类(语言)**|**藏文单语**| **藏汉双语**|**藏汉短语表**|**新词术语表**|
+|种类(语言)|藏文单语| 藏汉双语|藏汉短语表|新词术语表|
 |--|--|--|--|--|
 |*大小(条)*|*99137*| *320000* |*50000*|*34000*|
 |  |  |  |  |   |
